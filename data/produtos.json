@@ -1,6 +1,6 @@
 {
   "meta": {
-    "ordersEndpoint": "https://script.google.com/macros/s/AKfycbzYTEcM6CsepahQodXVdxLfoniWyuK3jR0cMtyKtu5ij0_Fhezup8gbzQWafbM8Ydmo/exec",
+    "ordersEndpoint": "https://script.google.com/macros/s/AKfycbw1UxAGQKOPdAT0uHtzOLhIlUpttgA78iua6F-yu1lPdWJQWGDUylc6JzjxBk0v3TA6Yg/exec",
     "brand": "Delícias da Jac",
     "whatsapp": "5521985075217",
     "whatsappLabel": "(21) 98507-5217",
@@ -12,7 +12,8 @@
       "Renata Jacques, proprietária da Delícias da Jac, é psicóloga e se dedica à confeitaria há aproximadamente cinco anos. Hoje é especializada em suspiros, macarons e brownies.",
       "Nesse caminho, já atendeu mais de 2.000 festas, preparando cada encomenda de forma artesanal.",
       "Nossa missão é oferecer atendimento de excelência e encantar os convidados por meio de doces artesanais."
-    ]
+    ],
+    "versao": "2026-11-08.1"
   },
   "categories": [
     {
@@ -134,7 +135,7 @@
       "category": "macarons",
       "name": "Macaron individual",
       "description": "Macaron com sabores à escolha. Mínimo de 20 unidades da mesma cor.",
-      "price": 6.0,
+      "price": 6,
       "priceUnit": "por unidade",
       "unit": [
         "macaron",
@@ -244,7 +245,7 @@
           "options": {
             "macarons-na-caixinha": "1 macaron"
           },
-          "price": 8.0,
+          "price": 8,
           "minimumQuantity": null,
           "quantity": "1 macaron",
           "maxFlavors": null,
@@ -258,7 +259,7 @@
           "options": {
             "macarons-na-caixinha": "2 macarons"
           },
-          "price": 15.0,
+          "price": 15,
           "minimumQuantity": null,
           "quantity": "2 macarons",
           "maxFlavors": null,
@@ -272,7 +273,7 @@
           "options": {
             "macarons-na-caixinha": "3 macarons"
           },
-          "price": 22.0,
+          "price": 22,
           "minimumQuantity": null,
           "quantity": "3 macarons",
           "maxFlavors": null,
@@ -349,7 +350,7 @@
             "tamanho": "4 andares",
             "suporte": "Sem torre"
           },
-          "price": 240.0,
+          "price": 240,
           "minimumQuantity": null,
           "quantity": "40 macarons",
           "maxFlavors": 2,
@@ -366,7 +367,7 @@
             "tamanho": "4 andares",
             "suporte": "Com torre"
           },
-          "price": 274.0,
+          "price": 274,
           "minimumQuantity": null,
           "quantity": "40 macarons",
           "maxFlavors": 2,
@@ -383,7 +384,7 @@
             "tamanho": "5 andares",
             "suporte": "Sem torre"
           },
-          "price": 360.0,
+          "price": 360,
           "minimumQuantity": null,
           "quantity": "60 macarons",
           "maxFlavors": 3,
@@ -400,7 +401,7 @@
             "tamanho": "5 andares",
             "suporte": "Com torre"
           },
-          "price": 395.0,
+          "price": 395,
           "minimumQuantity": null,
           "quantity": "60 macarons",
           "maxFlavors": 3,
@@ -417,7 +418,7 @@
             "tamanho": "6 andares",
             "suporte": "Sem torre"
           },
-          "price": 480.0,
+          "price": 480,
           "minimumQuantity": null,
           "quantity": "80 macarons",
           "maxFlavors": 3,
@@ -434,7 +435,7 @@
             "tamanho": "6 andares",
             "suporte": "Com torre"
           },
-          "price": 540.0,
+          "price": 540,
           "minimumQuantity": null,
           "quantity": "80 macarons",
           "maxFlavors": 3,
@@ -451,7 +452,7 @@
             "tamanho": "7 andares",
             "suporte": "Sem torre"
           },
-          "price": 600.0,
+          "price": 600,
           "minimumQuantity": null,
           "quantity": "100 macarons",
           "maxFlavors": null,
@@ -468,7 +469,7 @@
             "tamanho": "7 andares",
             "suporte": "Com torre"
           },
-          "price": 680.0,
+          "price": 680,
           "minimumQuantity": null,
           "quantity": "100 macarons",
           "maxFlavors": null,
@@ -485,7 +486,7 @@
             "tamanho": "8 andares",
             "suporte": "Sem torre"
           },
-          "price": 780.0,
+          "price": 780,
           "minimumQuantity": null,
           "quantity": "130 macarons",
           "maxFlavors": null,
@@ -502,7 +503,7 @@
             "tamanho": "8 andares",
             "suporte": "Com torre"
           },
-          "price": 880.0,
+          "price": 880,
           "minimumQuantity": null,
           "quantity": "130 macarons",
           "maxFlavors": null,
@@ -519,7 +520,7 @@
             "tamanho": "10 andares",
             "suporte": "Sem torre"
           },
-          "price": 1100.0,
+          "price": 1100,
           "minimumQuantity": null,
           "quantity": "200 macarons",
           "maxFlavors": null,
@@ -536,7 +537,7 @@
             "tamanho": "10 andares",
             "suporte": "Com torre"
           },
-          "price": 1200.0,
+          "price": 1200,
           "minimumQuantity": null,
           "quantity": "200 macarons",
           "maxFlavors": null,
@@ -595,7 +596,7 @@
       "category": "pirulitos",
       "name": "Pirulito modelado simples",
       "description": "Pirulito de suspiro modelado. Temas sob consulta.",
-      "price": 6.0,
+      "price": 6,
       "priceUnit": "por unidade",
       "unit": [
         "unidade",
@@ -710,7 +711,7 @@
       "category": "pirulitos",
       "name": "Pirulito recheado de brigadeiro",
       "description": "Pirulito de suspiro recheado de brigadeiro.",
-      "price": 6.0,
+      "price": 6,
       "priceUnit": "por unidade",
       "unit": [
         "unidade",
@@ -800,7 +801,7 @@
           "options": {
             "embalagem": "Saquinho"
           },
-          "price": 5.0,
+          "price": 5,
           "minimumQuantity": 10,
           "quantity": "15 mini suspiros",
           "maxFlavors": null,
@@ -828,7 +829,7 @@
           "options": {
             "embalagem": "Caixinha"
           },
-          "price": 7.0,
+          "price": 7,
           "minimumQuantity": 10,
           "quantity": "1 unidade",
           "maxFlavors": null,
@@ -907,7 +908,7 @@
           "options": {
             "embalagem": "Caixinha"
           },
-          "price": 7.0,
+          "price": 7,
           "minimumQuantity": 10,
           "quantity": "1 unidade",
           "maxFlavors": null,
@@ -1102,7 +1103,7 @@
           "options": {
             "opcao": "Recheado"
           },
-          "price": 8.0,
+          "price": 8,
           "minimumQuantity": 10,
           "quantity": "1 unidade",
           "maxFlavors": null,
@@ -1184,7 +1185,7 @@
           "options": {
             "embalagem": "Sem caixinha"
           },
-          "price": 10.0,
+          "price": 10,
           "minimumQuantity": 10,
           "quantity": "1 unidade",
           "maxFlavors": null,
@@ -1198,7 +1199,7 @@
           "options": {
             "embalagem": "Com caixinha"
           },
-          "price": 12.0,
+          "price": 12,
           "minimumQuantity": 10,
           "quantity": "1 unidade",
           "maxFlavors": null,
@@ -1273,7 +1274,7 @@
           "options": {
             "versao": "Roseta"
           },
-          "price": 10.0,
+          "price": 10,
           "minimumQuantity": 10,
           "quantity": "1 unidade",
           "maxFlavors": null,
@@ -1287,7 +1288,7 @@
           "options": {
             "versao": "Modelado"
           },
-          "price": 12.0,
+          "price": 12,
           "minimumQuantity": 10,
           "quantity": "1 unidade",
           "maxFlavors": null,
@@ -1301,7 +1302,7 @@
           "options": {
             "versao": "Premium"
           },
-          "price": 14.0,
+          "price": 14,
           "minimumQuantity": 10,
           "quantity": "1 unidade",
           "maxFlavors": null,
@@ -1362,7 +1363,7 @@
           "options": {
             "tamanho": "30 cm"
           },
-          "price": 100.0,
+          "price": 100,
           "minimumQuantity": null,
           "quantity": "30 cm",
           "maxFlavors": null,
@@ -1378,7 +1379,7 @@
           "options": {
             "tamanho": "40 cm"
           },
-          "price": 150.0,
+          "price": 150,
           "minimumQuantity": null,
           "quantity": "40 cm",
           "maxFlavors": null,
@@ -1394,7 +1395,7 @@
       "category": "torres-e-mini-suspiros",
       "name": "Mini suspiros",
       "description": "Mini suspiros vendidos por peso, em pacotes de 250 g (cerca de 100 unidades).",
-      "price": 45.0,
+      "price": 45,
       "priceUnit": "por pacote de 250 g",
       "unit": [
         "pacote de 250 g",
@@ -1466,7 +1467,7 @@
             "tamanho": "4 cm",
             "laco": "Sem laço"
           },
-          "price": 5.0,
+          "price": 5,
           "minimumQuantity": 10,
           "quantity": "1 unidade",
           "maxFlavors": null,
@@ -1496,7 +1497,7 @@
             "tamanho": "5 cm",
             "laco": "Sem laço"
           },
-          "price": 6.0,
+          "price": 6,
           "minimumQuantity": null,
           "quantity": "1 unidade",
           "maxFlavors": null,
@@ -1578,7 +1579,7 @@
           "options": {
             "laco": "Com laço"
           },
-          "price": 6.0,
+          "price": 6,
           "minimumQuantity": 15,
           "quantity": "1 unidade",
           "maxFlavors": null,
