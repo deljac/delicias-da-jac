@@ -1,6 +1,6 @@
 {
   "meta": {
-    "ordersEndpoint": "https://script.google.com/macros/s/AKfycbzYTEcM6CsepahQodXVdxLfoniWyuK3jR0cMtyKtu5ij0_Fhezup8gbzQWafbM8Ydmo/exec",
+    "ordersEndpoint": "https://script.google.com/macros/s/AKfycbw1UxAGQKOPdAT0uHtzOLhIlUpttgA78iua6F-yu1lPdWJQWGDUylc6JzjxBk0v3TA6Yg/exec",
     "brand": "Delícias da Jac",
     "whatsapp": "5521985075217",
     "whatsappLabel": "(21) 98507-5217",
@@ -34,12 +34,12 @@
       "descricao": "Presentes, sobremesas e delícias para a sua ceia.",
       "capa": "",
       "status": "publicado",
-      "inicio": "",
-      "fimPedidos": "2026-12-24",
-      "retiradaInicio": "2026-12-20",
-      "retiradaFim": "2026-12-25"
+      "inicio": "2026-11-08",
+      "fimPedidos": "2027-02-02",
+      "retiradaInicio": "2026-11-15",
+      "retiradaFim": "2026-12-24"
     },
-    "versao": "2026-11-05.2"
+    "versao": "2026-11-08.2"
   },
   "categories": [
     {

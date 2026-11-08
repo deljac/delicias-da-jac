@@ -3,5 +3,24 @@
     "nome": "Catálogo Tradicional",
     "url": "./"
   },
-  "catalogos": []
+  "catalogos": [
+    {
+      "id": "natal-2026",
+      "slug": "natal-2026",
+      "nome": "Natal 2026",
+      "descricao": "Presentes, sobremesas e delícias para a sua ceia.",
+      "capa": "",
+      "status": "publicado",
+      "inicio": "2026-11-08",
+      "fimPedidos": "2027-02-02",
+      "retiradaInicio": "2026-11-15",
+      "retiradaFim": "2026-12-24",
+      "url": "natal-2026/",
+      "cores": {
+        "destaque": "#D91F35",
+        "texto": "#9E1B28",
+        "fundo": "#F7CFD0"
+      }
+    }
+  ]
 }
